@@ -12,5 +12,3 @@ Note that certain links (or the respective access rights) will be made available
 
 # Links Bosch Construction Site Mgmt
 * [Product Documentation](https://www.bosch-smartes-bauen.com)
-* [Project Mgmt Starting Page](https://smartsite-web-bic2.apps-bosch-pt.com)
-* [Task API - Topics](https://tasks-production-pt.apps.de1.bosch-iot-cloud.com/docs/api-guide-project-context.html#_topics)
